@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/flag.usa.svg"
   },
   {
-    "revision": "c19430fb3e84bdfc9ea2fc83713e43ee",
+    "revision": "0356ec2dcf4ed061518b1b184aa382e9",
     "url": "/index.html"
   },
   {
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/select.svg"
   },
   {
-    "revision": "da9ff2fd8d53183080f1",
-    "url": "/static/css/main.6414f917.chunk.css"
+    "revision": "de29efb7c4d5904ab26a",
+    "url": "/static/css/main.c1d0ea27.chunk.css"
   },
   {
     "revision": "8240de3dd16a9432d396",
@@ -84,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.ac824bba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "da9ff2fd8d53183080f1",
-    "url": "/static/js/main.f0143a0d.chunk.js"
+    "revision": "de29efb7c4d5904ab26a",
+    "url": "/static/js/main.732f84b5.chunk.js"
   },
   {
     "revision": "8b1c1646defb44604e7d",
