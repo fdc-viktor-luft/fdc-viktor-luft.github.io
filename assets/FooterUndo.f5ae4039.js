@@ -1,1 +1,0 @@
-import{j as o,I as t}from"./index.04a4b329.js";import{a as s}from"./FooterRestart.3459ca14.js";const a=({onClick:r})=>o(s,{onClick:r,description:"APP.undo",children:o(t.Undo,{className:"reflect"})});export{a as F};
